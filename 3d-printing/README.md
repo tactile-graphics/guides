@@ -1,7 +1,8 @@
-# guides
-Guidance, documentation, and test results for tactile generation
+# 3D Printing
 
-In general, use this repo's wiki for user-oriented guidance and walkthrough.
+Put artifacts related to 3d printing guidance in this directory. 
+
+Use the wiki for posting general guidance and walk-throughs. Use this directory for notes, raw data, scripts, etc.
 
 # Legal
 
@@ -16,4 +17,4 @@ Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
-limitations under the License.
+limitations under the License. 

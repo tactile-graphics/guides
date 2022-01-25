@@ -1,7 +1,6 @@
-# guides
-Guidance, documentation, and test results for tactile generation
+# Trials
 
-In general, use this repo's wiki for user-oriented guidance and walkthrough.
+Put raw results from experiments and tests in this directory. Tests should reference tools (both hardware and software) used for each test. 
 
 # Legal
 
