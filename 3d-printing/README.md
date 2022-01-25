@@ -6,7 +6,6 @@ Use the wiki for posting general guidance and walk-throughs. Use this directory 
 
 # Legal
 
-Copyright 2022 Adventium Labs
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
