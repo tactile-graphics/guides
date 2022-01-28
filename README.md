@@ -1,4 +1,4 @@
-# guides
+# Guides
 Guidance, documentation, and test results for tactile generation
 
 Use this repo's [wiki](https://github.com/tactile-graphics/guides/wiki) for user-oriented guidance and walkthrough.
